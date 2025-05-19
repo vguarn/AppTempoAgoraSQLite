@@ -6,7 +6,7 @@ namespace AppTempoAgoraSQLite
 {
     public partial class MainPage : ContentPage
     {
-        private PrevisaoService _service;
+        private Dataservice _service;
 
         public MainPage()
         {
@@ -29,7 +29,7 @@ namespace AppTempoAgoraSQLite
             }
 
             // Simulação de API
-            var previsao = new PrevisaoTempo
+            var previsao = new Tempo
             {
                 Cidade = cidade,
                 Data = DateTime.Now.ToString("dd/MM/yyyy HH:mm"),

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{5B69BBED-3FA2-4194-B6BC-8527D626F98B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTempoAgoraSQLite", "MauiApp1\AppTempoAgoraSQLite.csproj", "{5B69BBED-3FA2-4194-B6BC-8527D626F98B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
